@@ -3,9 +3,9 @@ import time
 
 print("After putting the limit and message, open the chatbox of the user you want to spam to")
 
-limit = input("\nEnter limit:")
+limit = input("\nEnter the limit:")
 
-message = input("\nEnter message:")
+message = input("\nEnter the message:")
 
 i = 0
 time.sleep(5)
